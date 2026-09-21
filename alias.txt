@@ -70,7 +70,7 @@
 .ga go around
 .map follow the published missed approach procedure
 .lu line up runway $deprwy
-.ludep behind next departing $1, line up runway $deprwy, behind
+.ludep after next departing $1, line up runway $deprwy, behind
 .luarr behind next arriving $1, line up runway $deprwy, behind
 .late expect late landing clearance
 
